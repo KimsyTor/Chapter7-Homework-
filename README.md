@@ -1,4 +1,4 @@
-# Homework 8 - Collaboration
+# Homework 7 - Collaboration
 
 This week homework, required you to work in group, each member in the group must contribute something to the work.
 
